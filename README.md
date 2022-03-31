@@ -57,6 +57,19 @@ Since everything is static, everything gets copied over to a RaspberryPi which i
 
 ## Result
 
+Main page:
+
+![image](https://user-images.githubusercontent.com/194147/160983384-0c6e5032-3e14-44d1-92fd-619f01b6ac9a.png)
+
+Searching:
+
+![image](https://user-images.githubusercontent.com/194147/160983452-bbd13d5b-1fd6-4703-838d-774a619b4124.png)
+
+Search Result:
+
+![image](https://user-images.githubusercontent.com/194147/160983484-0054d436-98fe-4b14-bdef-5bbdac3c2fd6.png)
+
+
 ## TODO
 
 - Add recent to the index page
